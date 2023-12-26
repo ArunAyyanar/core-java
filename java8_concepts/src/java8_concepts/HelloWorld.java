@@ -1,4 +1,5 @@
 package java8_concepts;
+
 import java.util.function.Supplier;
 
 public class HelloWorld {
